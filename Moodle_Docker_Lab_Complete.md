@@ -657,6 +657,7 @@ Course Category ใช้จัดกลุ่มรายวิชาตาม�
 ```bash
  รูปหน้า  Category ที่มีการสร้างกลุ่ม ตามกลุ่มสาระของ สพฐ.
 ```
+<img width="868" height="720" alt="image" src="https://github.com/user-attachments/assets/2ee206e1-1278-4bf7-80f2-2a4247926342" />
 
 #### 6.2.2 สร้าง Course (รายวิชา)
 
@@ -729,6 +730,7 @@ Learning outcomes:
 ```bash
  รูปหน้าผลลัพธ์การสร้างรายวิชา
 ```
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/55179d05-a60f-4eae-b578-844c0adf8a5e" />
 
 ---
 
@@ -790,6 +792,7 @@ Programming, Python, Data Science
 ```bash
  รูปหน้า ผลการสร้าง User ใหม่
 ```
+<img width="1907" height="830" alt="image" src="https://github.com/user-attachments/assets/6ad92bbf-8e9e-4561-b66e-974ab0f35eae" />
 
 **วิธีที่ 2: Upload Users (CSV)**
 
@@ -813,6 +816,7 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 ```bash
  รูปหน้า ผลการ Upload Users
 ```
+<img width="1918" height="859" alt="image" src="https://github.com/user-attachments/assets/70c68cf4-6b84-4315-9184-422f9a95a746" />
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
@@ -874,6 +878,12 @@ Cohort = กลุ่มผู้ใช้ (เช่น ม.1, ม.2 หรื�
 ```bash
  รูปหน้า ผลการ Upload Users และเพิ่มคอลัมน์ cohort
 ```
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/4c290f91-893e-411a-a85e-535472e84ba8" />
+
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/3f7eeba2-1a54-40cf-9804-c41a8c76f8ca" />
+
+
+
 ---
 
 
